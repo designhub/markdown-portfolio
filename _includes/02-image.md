@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Logo SEKOIA.IO](https://app.sekoia.io/user/assets/theme/logo.svg)
